@@ -1,0 +1,21 @@
+body {
+    font-family: 'Roboto', 'Muli', sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+/* #resume {
+    width: auto;
+    height; 
+    border: 1px solid red;
+} */
+
+#resume {
+    border: 1px solid red;
+    width: 754.909px;
+    height: 1038px;
+    /* 1:1 Aspect Ratio */
+    position: relative;
+    /* If you want text inside of it */
+}
